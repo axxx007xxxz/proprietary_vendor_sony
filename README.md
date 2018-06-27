@@ -5,3 +5,4 @@ This repository contains the proprietary blobs for the Sony devices I own and I 
 ### Supported devices list
 Device | Codename
 ------ | --------
+Xperia XA2 | pioneer (and nile-common)
